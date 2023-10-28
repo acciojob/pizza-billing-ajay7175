@@ -8,7 +8,7 @@ public class Main {
     dp.addExtraCheese();
     dp.addTakeaway();
     System.out.println(dp.getBill());
-    Pizza aa=new Pizza(true);
+    
     Pizza p = new Pizza(true);
     p.addExtraCheese();
     p.addExtraToppings();
